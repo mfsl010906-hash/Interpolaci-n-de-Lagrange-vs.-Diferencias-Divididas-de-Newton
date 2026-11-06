@@ -17,6 +17,21 @@ Este proyecto implementa y compara dos métodos de interpolación polinomial:
 4. Interpolacion Lagrange: Esta clase se encarga de calcular un valor aproximado utilizando el método de interpolación de Lagrange.
 
 ## Instrucciones de Ejecución
-1. Clonar el repositorio: `git clone https://github.com/tu-usuario/Metodos-Numericos-Interpolacion.git`
-2. Abrir el proyecto en el IDE Java de tu preferencia.
-3. Compilar y ejecutar la clase principal `interpolacion.Main`.
+1. Clonar el repositorio:
+   ```bash
+   git clone 
+   cd Simpson-Compuesto-vs.-Trapecio-Compuesto
+   ```
+
+2. Compilar el código:
+   ```bash
+   javac -d bin src/dif_e_Integracion/*.java
+   ```
+
+3. Ejecutar la clase principal:
+   ```bash
+   java -cp bin dif_e_Integracion.Main
+   ```
+
+---
+
