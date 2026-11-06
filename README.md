@@ -25,12 +25,12 @@ Este proyecto implementa y compara dos métodos de interpolación polinomial:
 
 2. Compilar el código:
    ```bash
-   javac -d bin src/dif_e_Integracion/*.java
+   javac -d bin src/Interpolacion/*.java
    ```
 
 3. Ejecutar la clase principal:
    ```bash
-   java -cp bin dif_e_Integracion.Main
+   java -cp bin Interpolacion.Main
    ```
 
 ---
