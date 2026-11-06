@@ -19,8 +19,8 @@ Este proyecto implementa y compara dos métodos de interpolación polinomial:
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone 
-   cd Simpson-Compuesto-vs.-Trapecio-Compuesto
+   git clone [https://github.com/mfsl010906-hash/Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton.git]
+   cd Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton
    ```
 
 2. Compilar el código:
